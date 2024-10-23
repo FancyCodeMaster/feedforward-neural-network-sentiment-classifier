@@ -4,10 +4,10 @@
 1. Preprocess the twitter sentiment dataset\
     a. Remove unnecessary columns\
     b. Text Cleaning\
-        i. converting to lowercase\
-        ii. removing urls\
-        iii. removing non-word and whitespace characters\
-        iv. removing digits\
+        \ti. converting to lowercase\
+        \tii. removing urls\
+        \tiii. removing non-word and whitespace characters\
+        \tiv. removing digits\
     c. Tokenization\
     d. Stopword Removal\
     e. Stemming/Lemmatization\
